@@ -1,1 +1,1 @@
-# An-lisis-de-regresi-n-log-stica-riesgo-decr-dito
+Regresion logistica - riesgo de credito
